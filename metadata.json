@@ -1,0 +1,6 @@
+{
+  "name": "Demystifying Large Language Models: Interactive Research Dashboard",
+  "description": "An interactive research dashboard and visual laboratory exploring the architecture, training pipeline, scaling laws, LLM OS, and cybersecurity threats from Andrej Karpathy's masterclass guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
